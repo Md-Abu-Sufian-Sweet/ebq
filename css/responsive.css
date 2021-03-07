@@ -1,0 +1,301 @@
+
+@media (max-width:1250px){
+     .container{
+        width: 1000px;
+     }
+     .heading h1{
+    font-size: 42px;
+     }
+     .darkblue ul li:first-child {
+    max-width: 15%;
+    flex-basis: 15%;
+}
+     .darkblue ul li:last-child {
+    max-width: 85%;
+    flex-basis: 85%;
+}
+.lightblue h1 {
+    font-size: 40px;
+    }
+    .banner-image img {
+    transform: translateY(143px);
+}
+}
+
+@media (max-width:1050px){
+    .container{
+        width: 900px;
+    }
+    .seccess-content h1 {
+    color: #333;
+    font-size: 47px;
+}
+.offer-content h1 {
+    color: #333;
+    font-size: 47px;
+}
+.banner-image img {
+    transform: translateY(134px);
+}
+.banner-content a {
+    padding: 10px 35px;
+    }
+    .banner-content h1 {
+    font-size: 47px;
+}
+}
+
+@media (max-width: 950px){
+    .container{
+        width: 700px;
+    }
+    .banner-content h1 {
+    font-size: 39px;
+}
+    .banner-content a {
+    padding: 10px 14px;
+}
+.banner-image img {
+    transform: translateY(165px);
+}
+.heading h1 {
+    font-size: 35px;
+}
+.heading p {
+    font-size: 17px;
+}
+.service-part img {
+    height: 32px;
+}
+.service-part p {
+    font-size: 18px;
+}
+.service-part {
+    padding-bottom: 52px;
+}
+.offer-content h1 {
+    color: #333;
+    font-size: 37px;
+}
+.seccess-content h1 {
+    font-size: 42px;
+}
+.lightblue h1 {
+    font-size: 34px;
+}
+.darkblue ul li p {
+    font-size: 15px;
+}
+.darkblue ul li h2 a {
+    font-size: 23px;
+}
+.darkblue ul li:first-child {
+    max-width: 20%;
+    flex-basis: 20%;
+}
+.darkblue ul li:last-child {
+    max-width: 80%;
+    flex-basis: 80%;
+}
+.social-menu ul li a i {
+    width: 33px;
+    height: 33px;
+    line-height: 33px;
+}
+}
+@media (max-width: 735px){
+    .container{
+        width: 550px;
+    }
+    nav ul li a {
+    margin-left: 25px;
+}
+nav ul li:last-child a {   
+    padding: 10px 20px; 
+}
+.logo-part a img {
+    width: 65px;
+}
+.banner-image {
+    max-width: 100%;
+    flex-basis: 100%;
+}
+.banner-content {
+    max-width: 100%;
+    flex-basis: 100%;
+}
+.banner-image img {
+    transform: translateY(64px);
+}
+.banner-content h1 {
+    max-width: none;
+}
+.banner-section {
+    padding: 25px 0;
+}
+.service-part {
+    max-width: 50%;
+    flex-basis: 50%;
+    padding: 12px;
+}
+.service-part p {
+    font-size: 17px;
+}
+.offer-content {
+    max-width: 100%;
+    flex-basis: 100%;
+    padding-top: 40px;
+}
+.offer-banner {
+    max-width: 100%;
+    flex-basis: 100%;
+    text-align: center;
+}
+.seccess-content {
+    max-width: 100%;
+    flex-basis: 100%;
+}
+.success-banner {
+    max-width: 100%;
+    flex-basis: 100%;
+}
+.lightblue h1 {
+    font-size: 25px;
+}
+.darkblue ul li:first-child {
+    max-width: 30%;
+    flex-basis: 30%;
+}
+.darkblue ul li:last-child {
+    max-width: 70%;
+    flex-basis: 70%;
+}
+.darkblue ul li h2 a {
+    font-size: 20px;
+}
+.col {
+    padding: 77px 74px 50px 74px;
+}
+.powered {
+    max-width: 30%;
+    flex-basis: 30%;
+}
+.social-menu {
+    max-width: 70%;
+    flex-basis: 70%;
+}
+}
+@media (max-width: 650px){
+    .container{
+        width: 450px;
+    }
+    nav ul li a {
+    margin-left: 13px;
+}
+nav ul li:last-child a {
+    padding: 10px 10px;
+}
+.col {
+    max-width: 100%;
+    flex-basis: 100%;
+}
+.darkblue ul li:first-child {
+    max-width: 20%;
+    flex-basis: 20%;
+    }
+.darkblue ul li:last-child {
+    max-width: 80%;
+    flex-basis: 80%;
+}
+.seccess-section {
+    padding: 80px 0;
+}
+}
+@media (max-width: 500px){
+    .container{
+        width: 300px;
+    }
+    nav {
+    max-width: 100%;
+    flex-basis: 100%;
+}
+.logo-part {
+    max-width: 100%;
+    flex-basis: 100%;
+}
+nav ul {
+    display: block;
+}
+nav ul li a {
+    margin-left: 0;
+    display: inline-block;
+    margin-top: 20px;
+}
+nav ul li a:hover {
+    border-bottom: 0 solid #2979F2;
+    color: #F7A508;
+}
+.heading h1 {
+    font-size: 28px;
+}
+.service-part {
+    max-width: 100%;
+    flex-basis: 100%;
+}
+.offer-content h1 {
+    font-size: 31px;
+}
+.offer-content a {
+    font-size: 16px;
+}
+.seccess-content h1 {
+    font-size: 32px;
+}
+.seccess-content p {
+    padding: 12px 0;
+}
+.darkblue ul li:first-child {
+    max-width: 25%;
+    flex-basis: 25%;
+}
+.darkblue ul li:last-child {
+    max-width: 75%;
+    flex-basis: 75%;
+}
+.heading h1 {
+    font-size: 23px;
+}
+.heading a {
+    padding: 10px 8px;
+}
+.footer-menu {
+    max-width: 100%;
+    flex-basis: 100%;
+}
+.social-menu {
+    max-width: 100%;
+    flex-basis: 100%;
+}
+.footer-menu ul li span {
+    margin-top: 30px;
+}
+.powered {
+    max-width: 100%;
+    flex-basis: 100%;
+}
+.social-menu {
+    max-width: 100%;
+    flex-basis: 100%;
+}
+.social-menu ul {
+    display: flex;
+    justify-content: flex-start;
+}
+.social-menu ul li a {
+    margin-left: 0;
+    margin-right: 30px;
+}
+.powered {
+    padding-bottom: 15px;
+}
+}
